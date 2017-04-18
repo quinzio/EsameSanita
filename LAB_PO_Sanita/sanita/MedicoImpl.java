@@ -41,8 +41,7 @@ public class MedicoImpl implements Medico {
 
 	@Override
 	public Medico getMedico() {
-		// TODO Auto-generated method stub
-		return null;
+		return this;
 	}
 
 	@Override
